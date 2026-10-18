@@ -290,7 +290,7 @@ Open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGQxY2ItZ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/banana-and-harvest.git
+   git clone https://github.com/saif146/-Banana-Harvest.git
    cd banana-and-harvest
    ```
 2. **Open** `Banana_and_Harvest.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
@@ -326,11 +326,11 @@ Open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGQxY2ItZ
 
 **Saiful Islam** — Data Analyst
 
-- LinkedIn: [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
+- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saiful-islam-7b7a64268/?isSelfProfile=true)
 - Email: YOUR_EMAIL
 - Portfolio: YOUR_PORTFOLIO_URL
 
-Feedback, suggestions and collaboration ideas are welcome — please open an [issue](../../issues) or message me directly.
+Feedback, suggestions and collaboration ideas are welcome — please  message me directly.
 
 ---
 
