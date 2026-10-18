@@ -13,7 +13,7 @@
 ![Measures](https://img.shields.io/badge/DAX%20Measures-150%2B-2E7D32?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-[**▶ Live Dashboard**](https://app.powerbi.com/groups/me/reports/e4118106-f1fa-4935-92e4-8b89bbe0745f/a76e6666c7a7cc8b25c2?experience=power-bi) &nbsp;•&nbsp; [**Report a Bug**](../../issues) &nbsp;•&nbsp; [**Connect on LinkedIn**](https://www.linkedin.com/in/saiful-islam-7b7a64268/?isSelfProfile=true)
+[**▶ Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGQxY2ItZTEzMi00YjQwLWI2YzgtY2YyYTM1YjRiY2Q0IiwidCI6Ijk4NWUxYzNlLTFmOWUtNDViNy1hZWZiLWM3NWMyMGIwNmI1ZCIsImMiOjEwfQ%3D%3D) &nbsp;•&nbsp; [**Report a Bug**](../../issues) &nbsp;•&nbsp; [**Connect on LinkedIn**](https://www.linkedin.com/in/saiful-islam-7b7a64268/?isSelfProfile=true)
 
 <br>
 
@@ -284,7 +284,7 @@ banana-and-harvest/
 ## 11. Getting Started
 
 ### Option A — View online
-Open the **[live dashboard](YOUR_PUBLISHED_POWER_BI_LINK)**. No installation is required.
+Open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGQxY2ItZTEzMi00YjQwLWI2YzgtY2YyYTM1YjRiY2Q0IiwidCI6Ijk4NWUxYzNlLTFmOWUtNDViNy1hZWZiLWM3NWMyMGIwNmI1ZCIsImMiOjEwfQ%3D%3D)**. No installation is required.
 
 ### Option B — Open locally
 
