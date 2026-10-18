@@ -326,7 +326,7 @@ Open the **[live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGNmMGQxY2ItZ
 
 **Saiful Islam** — Data Analyst
 
-- LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saiful-islam-7b7a64268/?isSelfProfile=true)
+- LinkedIn: [saiful-islam](https://www.linkedin.com/in/saiful-islam-7b7a64268/?isSelfProfile=true)
 - Email: YOUR_EMAIL
 - Portfolio: YOUR_PORTFOLIO_URL
 
